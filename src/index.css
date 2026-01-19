@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/*Set html, body and app root height to 100%*/
+@layer base {
+  html,
+  body,
+  #root {
+    @apply h-full bg-gray-200;
+  }
+}
