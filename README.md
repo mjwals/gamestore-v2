@@ -16,3 +16,7 @@ In 2025, I decided to learn React and Tailwind to develop new front‑end skills
 - uuidv4
 ## How to use it
 Requires Node.js v20.19+ or v22.12+
+- Download and extract the project zip
+- Open a terminal in the project folder (the one containing `package.json`)
+- Install dependencies: `npm install`
+- Start the development server: `npm run dev`
