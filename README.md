@@ -1,4 +1,4 @@
-# Gamestore-v2
+# Gamestore-v2 (React)
 An online store for buying and browsing video games.
 
 In 2025, I decided to learn React and Tailwind to develop new front‑end skills, so I rebuilt my original JavaScript Gamestore app using these technologies.
